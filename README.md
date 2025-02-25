@@ -2,6 +2,7 @@
 
 A customizable photo display app for Windows. Arrange, freeze, and cycle photos on your screen with ease.
 
+Download photoscreen.exe at https://github.com/jonothegreat/PhotoScreen/tree/master 
 
 
 ## Features
